@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+tqdm
+statsmodels
