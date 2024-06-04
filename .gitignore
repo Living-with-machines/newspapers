@@ -130,3 +130,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Excluded data
+title_query*.csv
+issue_query*.csv
+issue_query*.zip
+item_query*.csv
+item_query*.zip
+lwm-alto2txt
+hmd-alto2txt
