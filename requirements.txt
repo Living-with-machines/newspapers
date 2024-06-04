@@ -1,5 +1,9 @@
 jupyter 
-pandas 
-matplotlib 
-tqdm 
+matplotlib
+numpy
+pandas
+plotly
 python-dotenv
+seaborn
+tqdm
+statsmodels
