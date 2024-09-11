@@ -1,2 +1,2 @@
 # newspapers
-Public repository for material relating to open access historical newspapers
+Public repository for open access material relating to historical newspapers
