@@ -132,6 +132,8 @@ dmypy.json
 .pyre/
 
 # Excluded data
+lwmdb*.csv
+lwmdb*.zip
 title_query*.csv
 issue_query*.csv
 issue_query*.zip
