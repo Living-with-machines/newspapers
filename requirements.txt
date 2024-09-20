@@ -7,3 +7,5 @@ python-dotenv
 seaborn
 tqdm
 statsmodels
+requests
+dacite
