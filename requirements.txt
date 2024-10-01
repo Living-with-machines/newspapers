@@ -9,3 +9,5 @@ tqdm
 statsmodels
 requests
 dacite
+gensim==4.3.1
+gdown
